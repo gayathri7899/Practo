@@ -1,0 +1,4 @@
+Report bug
+Story points - add
+
+report>sprint report> name of sprint> three dots click> 
